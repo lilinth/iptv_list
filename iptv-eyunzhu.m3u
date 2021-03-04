@@ -1,0 +1,157 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-name="CCTV-1高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-3高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-name="CCTV-6高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-8高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-1综合"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV-2财经"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV-3综艺"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV-4中文国际"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV-6电影"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV-7军事农业"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV-8电视剧"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV-9纪录"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV-10科教"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV-11戏曲"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV-12社会与法"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV-13新闻"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV-14少儿"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV-15音乐"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV-NEWS"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cctv16.m3u8
+#EXTINF:-1 tvg-name="北京卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name="北京文艺高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name="北京纪实高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="东方卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="安徽卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/ahhd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hljhd.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/lnhd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/szhd.m3u8
+#EXTINF:-1 tvg-name="广东卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/gdhd.m3u8
+#EXTINF:-1 tvg-name="天津卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/tjhd.m3u8
+#EXTINF:-1 tvg-name="湖北卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hbhd.m3u8
+#EXTINF:-1 tvg-name="山东卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="重庆卫视高清"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="北京卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv1.m3u8
+#EXTINF:-1 tvg-name="北京文艺"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv2.m3u8
+#EXTINF:-1 tvg-name="北京科教"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv3.m3u8
+#EXTINF:-1 tvg-name="北京影视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv4.m3u8
+#EXTINF:-1 tvg-name="北京财经"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv5.m3u8
+#EXTINF:-1 tvg-name="北京生活"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv7.m3u8
+#EXTINF:-1 tvg-name="北京青年"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv8.m3u8
+#EXTINF:-1 tvg-name="北京新闻"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv9.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿"
+https://ivi.bupt.bt3.eyunzhu.com/hls/btv10.m3u8
+#EXTINF:-1 tvg-name="深圳卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/sztv.m3u8
+#EXTINF:-1 tvg-name="安徽卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/ahtv.m3u8
+#EXTINF:-1 tvg-name="河南卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hntv.m3u8
+#EXTINF:-1 tvg-name="陕西卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/sxtv.m3u8
+#EXTINF:-1 tvg-name="吉林卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/jltv.m3u8
+#EXTINF:-1 tvg-name="广东卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/gdtv.m3u8
+#EXTINF:-1 tvg-name="山东卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/sdtv.m3u8
+#EXTINF:-1 tvg-name="湖北卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hbtv.m3u8
+#EXTINF:-1 tvg-name="广西卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/gxtv.m3u8
+#EXTINF:-1 tvg-name="河北卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hebtv.m3u8
+#EXTINF:-1 tvg-name="西藏卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/xztv.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/nmtv.m3u8
+#EXTINF:-1 tvg-name="青海卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/qhtv.m3u8
+#EXTINF:-1 tvg-name="四川卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/sctv.m3u8
+#EXTINF:-1 tvg-name="江苏卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/jstv.m3u8
+#EXTINF:-1 tvg-name="天津卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/tjtv.m3u8
+#EXTINF:-1 tvg-name="山西卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/sxrtv.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/lntv.m3u8
+#EXTINF:-1 tvg-name="厦门卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/xmtv.m3u8
+#EXTINF:-1 tvg-name="新疆卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/xjtv.m3u8
+#EXTINF:-1 tvg-name="东方卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/dftv.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hljtv.m3u8
+#EXTINF:-1 tvg-name="湖南卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/hunantv.m3u8
+#EXTINF:-1 tvg-name="云南卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/yntv.m3u8
+#EXTINF:-1 tvg-name="江西卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/jxtv.m3u8
+#EXTINF:-1 tvg-name="福建东南卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/dntv.m3u8
+#EXTINF:-1 tvg-name="浙江卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/zjtv.m3u8
+#EXTINF:-1 tvg-name="贵州卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/gztv.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/nxtv.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/gstv.m3u8
+#EXTINF:-1 tvg-name="重庆卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/cqtv.m3u8
+#EXTINF:-1 tvg-name="兵团卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/bttv.m3u8
+#EXTINF:-1 tvg-name="旅游卫视"
+https://ivi.bupt.bt3.eyunzhu.com/hls/lytv.m3u8
